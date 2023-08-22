@@ -23,13 +23,13 @@ while 1:
     a+=a
     if a>4:
         break
-while a<4
+while a<4:
     print("Elma")
     print(a)
     a+=a
 
 
- while a< 4:
+ while a<5:
     print("Elma")
     print(a)
     if a == 2:
